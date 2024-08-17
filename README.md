@@ -43,8 +43,3 @@ A web application for merging and processing Excel files. This tool allows users
 6. **Editing the Script (Optional):**
    - If you need to adjust the script for different column names or formats, you can modify the JavaScript code accordingly.
    - For more details on modifying the script, refer to the code comments and documentation within the repository.
-
-## License
-
-[Insert License Here]
-
